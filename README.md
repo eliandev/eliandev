@@ -1,4 +1,4 @@
-![Header](header.png)
+![Header](header2.png)
 
 - 🔭 I’m currently working on in my personal brand, so I doing some projects for my portfolio and I´m building a blog about interests.
 
