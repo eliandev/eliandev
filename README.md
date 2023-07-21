@@ -11,11 +11,11 @@
 ## Recent projects 🚧
 
 <a href='https://sunny-agency-landing-page-5p6b.vercel.app/' target='_blank'>
-  <img width='30%' src='https://imgtr.ee/images/2023/07/20/9c6aefb66f3010748660120a1f207ebf.png' alt='Sunny agency website' />
+  <img width='30%' src='https://i.imgur.com/6jZ9Zdm.png' alt='Sunny agency website' />
 </a>
 <a href='https://multi-step-form-main-dusky.vercel.app/' target='_blank'>
-  <img width='30%' src='https://imgtr.ee/images/2023/07/20/fb17f529a3da8fabcf7adf0bb1cd58c6.png' alt='Multi Formulario' />
+  <img width='30%' src='https://i.imgur.com/pUSCwCa.png' alt='Multi Formulario' />
 </a>
 <a href='https://stats-preview-card-component-main-fm.vercel.app/' target='_blank'>
-  <img width='30%' src='https://imgtr.ee/images/2023/07/20/778921b9b12935703bbc41ef2b9b8bce.md.png' alt='Stats preview card' />
+  <img width='30%' src='https://i.imgur.com/jugAVAS.png' alt='Stats preview card' />
 </a>
