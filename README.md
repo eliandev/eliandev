@@ -6,7 +6,7 @@
 
 ## Skills ✨
 - Programming: JS, PYTHON, PHP
-- React.js, VUE.js, Next.js, Astro.build, etc.
+- React.js, VUE.js, Next.js, Astro. build.
 
 ## Recent projects 🚧
 
