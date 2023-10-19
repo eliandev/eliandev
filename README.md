@@ -10,8 +10,12 @@
 
 ## Recent projects 🚧
 
-<a href='https://stats-preview-card-component-main-fm.vercel.app/' target='_blank'>
-  <img width='30%' src='https://i.imgur.com/jugAVAS.png' alt='Stats preview card' />
+<a href='https://saas-ecommerce-admin.vercel.app/019b2c62-c359-4796-96c7-4006a9da50a3' target='_blank'>
+  <img  width='45%' src='./imgs/Store.png' alt='Admin dasboard' />
+</a>
+
+<a href='https://ecommerce-store-rho-lovat.vercel.app/' target='_blank'>
+  <img width='45%' src='./imgs/Admin-dashboard.png' alt='Admin dasboard' />
 </a>
 
 <a href='https://sunny-agency-landing-page-5p6b.vercel.app/' target='_blank'>
