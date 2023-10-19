@@ -10,6 +10,10 @@
 
 ## Recent projects 🚧
 
+<a href='https://stats-preview-card-component-main-fm.vercel.app/' target='_blank'>
+  <img width='30%' src='https://i.imgur.com/jugAVAS.png' alt='Stats preview card' />
+</a>
+
 <a href='https://sunny-agency-landing-page-5p6b.vercel.app/' target='_blank'>
   <img width='30%' src='https://i.imgur.com/6jZ9Zdm.png' alt='Sunny agency website' />
 </a>
