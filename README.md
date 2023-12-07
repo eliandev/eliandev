@@ -26,3 +26,6 @@
 <a href='https://stats-preview-card-component-main-fm.vercel.app/' target='_blank'>
   <img width='30%' src='https://i.imgur.com/jugAVAS.png' alt='Stats preview card' />
 </a>
+
+### More projects:
+https://eliandev.vercel.app/
