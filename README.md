@@ -9,23 +9,4 @@
 - React.js, VUE.js, Next.js, Astro. build.
 
 ## Recent projects 🚧
-
-<a href='https://saas-ecommerce-admin.vercel.app/019b2c62-c359-4796-96c7-4006a9da50a3' target='_blank'>
-  <img width='45%' src='./imgs/admin-git.png' alt='admin dasboard' />
-</a>
-<a href='https://ecommerce-store-rho-lovat.vercel.app/' target='_blank'>
-  <img  width='45%' src='./imgs/store-git.png' alt='Store Online' />
-</a>
-
-<a href='https://sunny-agency-landing-page-5p6b.vercel.app/' target='_blank'>
-  <img width='30%' src='https://i.imgur.com/6jZ9Zdm.png' alt='Sunny agency website' />
-</a>
-<a href='https://multi-step-form-main-dusky.vercel.app/' target='_blank'>
-  <img width='30%' src='https://i.imgur.com/pUSCwCa.png' alt='Multi Formulario' />
-</a>
-<a href='https://stats-preview-card-component-main-fm.vercel.app/' target='_blank'>
-  <img width='30%' src='https://i.imgur.com/jugAVAS.png' alt='Stats preview card' />
-</a>
-
-### More projects:
-https://eliandev.vercel.app/
+https://elian-dev.com/projects
