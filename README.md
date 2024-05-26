@@ -8,5 +8,10 @@
 - Programming: JS, PYTHON, PHP
 - React.js, VUE.js, Next.js, Astro. build.
 
+
+## My Links
+https://linktr.ee/eliandev
+
 ## Recent projects 🚧
 https://elian-dev.com/projects
+
