@@ -9,7 +9,7 @@ With over 5 years of experience in software development, I specialize in buildin
 **🔓 Open to freelance projects** | Founder & Co-founder | Bilingual (EN/ES)
 
 ## What I Do 💼
-- **E-Commerce Development**: Expert in Shopify and WordPress, delivering high-performance online stores
+- **E-Commerce Development**: Expert in VTEX, Shopify and WordPress, delivering high-performance online stores
 - **Full-Stack Development**: Building complete web solutions from frontend to backend
 - **Business Intelligence**: Transforming data into actionable insights with Power BI
 - **Performance Optimization**: Constantly improving speed, efficiency, and user experience
