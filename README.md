@@ -20,7 +20,6 @@ With over 5 years of experience in software development, I specialize in buildin
 Software development company delivering custom solutions and optimized digital experiences
 
 **📱 [ChillAPP SV](https://www.tomalochill.com/)** - Co-founder  
-**📱 [ChillAPP SV]()** - Co-founder  
 Innovative mobile application revolutionizing user experiences in El Salvador
 
 **🎨 [ART-ES](https://art-es.shop/)** - Co-founder  
