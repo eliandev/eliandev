@@ -19,7 +19,8 @@ With over 5 years of experience in software development, I specialize in buildin
 **🚀 [LourDevs 1.0](https://github.com/orgs/LourDevs-1-0/dashboard)** - Founder  
 Software development company delivering custom solutions and optimized digital experiences
 
-**📱 [ChillAPP SV](https://github.com/orgs/chillAppSV/dashboard)** - Co-founder  
+**📱 [ChillAPP SV](https://www.tomalochill.com/)** - Co-founder  
+**📱 [ChillAPP SV]()** - Co-founder  
 Innovative mobile application revolutionizing user experiences in El Salvador
 
 **🎨 [ART-ES](https://art-es.shop/)** - Co-founder  
