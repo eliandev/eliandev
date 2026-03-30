@@ -16,7 +16,7 @@ With over 5 years of experience in software development, I specialize in buildin
 - **Software Architecture**: Designing scalable microservices and secure systems
 
 ## My Companies & Projects 🏢
-**🚀 [LourDevs 1.0](https://github.com/orgs/LourDevs-1-0/dashboard)** - Founder  
+**🚀 [LourDevs 1.0]([https://www.lourdevs.com/](https://www.lourdevs.com/))** - Founder  
 Software development company delivering custom solutions and optimized digital experiences
 
 **📱 [ChillAPP SV](https://www.tomalochill.com/)** - Co-founder  
